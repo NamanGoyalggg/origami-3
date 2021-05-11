@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    font-family: monospace;
+}
+h2 {
+   color: rgb(123, 255, 0); 
+}
+h3 {
+color: cornflowerblue;
+}
+h1 {
+    background-color: rgba(9, 12, 14, 0.726);
+}
+h2 {
+    background-color: rgba(209, 28, 73, 0.726);
+}
+h3 {
+    background-color: rgba(43, 209, 28, 0.726);
+}
+body {
+    background-color: rgb(93, 72, 133);
+    text-decoration: darkgrey;
+    text-shadow: darkgrey;
+    text-size-adjust: 10;
+}
+text {
+    color: rgb(248, 242, 242);
+}
